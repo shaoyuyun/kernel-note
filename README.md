@@ -10,4 +10,4 @@ This repository is used to record the note of browser kernel.
 Trident内核是IE4用到IE10。  
 Gecko内核是Netscape6开始采用的内核，后来被Firefox所用。  
 Presto内核是Opera在用，后来Opera用上了Blink内核。  
-Webkit内核最早是Safari采用，后来Chrome也用。但是Chrome后来用上了Blink内核。  
+Webkit内核最早是Safari采用，后来Chrome也用。但是Chrome后来先是用上了Chromium内核，再用上了Blink内核。  
